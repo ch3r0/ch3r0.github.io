@@ -1,23 +1,23 @@
 const meta = {
   // Metadata
-  siteTitle: 'Anurag Hazra - Creative Web Designer',
+  siteTitle: 'Sasank Reddy - Creative Web Designer',
   siteDescription:
-    'Anurag Hazra - Creative frontEnd web developer who loves javascript and modern web technologies.',
-  siteTitleAlt: 'Anurag Hazra',
-  siteShortName: 'Anurag Hazra',
-  siteUrl: 'https://anuraghazra.github.io', // No trailing slash!
+    'Sasank - Creative frontEnd web developer who loves javascript and modern web technologies.',
+  siteTitleAlt: 'Sasank Reddy',
+  siteShortName: 'Sasank Reddy',
+  siteUrl: 'https://sasankreddy.tk', // No trailing slash!
 };
 
 const social = {
   siteLogo: `src/static/logo.svg`,
   siteBanner: `${meta.siteUrl}/images/social-banner.png`,
-  twitter: '@anuraghazru',
+  twitter: '@cyberbyte9',
 };
 
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'anuraghazra',
+  disqusShortName: 'sasank',
   googleAnalyticsID: 'UA-119972196-1',
   // Manifest
   themeColor: '#6D83F2',
