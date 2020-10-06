@@ -19,20 +19,21 @@ const About = () => {
           <Avatar src="hfest_avatar_2.jpg" />
         </div>
         <p>
-          Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer
+          Hi, I'm Sasank Reddy, a passionate self-taught frontEnd web developer
           from India, currently working at{' '}
-          <a className="about__link" href="https://timeless.co">
-            timeless.co
+          <a className="about__link" href="https://thecyberbyte.cf">
+            CyberByte
           </a>{' '}
-          as a FrontEnd engineer. I tend to make use of modern web technologies
-          to build websites that look great, feel fantastic, and function
-          correctly. I am especially focusing on Reactjs.
+          I focus on creating high performance, well engineered, and elegant services as a full stack engineer and a developer. 
+          I have experience developing scalable backend AI skill services for enterprise applications like google-assistant and amazon alexa, and Iam now creating my own AI named secktor while in parallel finding great fulfillment designing and implementing beautiful user interfaces.
+          Academically, I have obtained a First-Class pass mark in 10th class from my local school , where I graduated with the second highest grade average in the class of 2020.
+          Shortly after graduating from{' '}
+          <a className="about__link" href="https://padmavathividyalaya.edu.in/">
+            PadVid
+          </a>{' '}
+    I created the engineering team at CYBERBYTE where I work on a wide variety of interesting and meaningful projects on a daily basis.
           <br />
           <br />
-          I'm also a certified graphic designer from "Ramakrishna Mission
-          Shilpamandira". I also do Graphic and UI designing. Since I love both
-          programming and designing, I'm also interested in creating
-          programmatic designs and creative coding projects.
         </p>
       </AboutInfo>
 
