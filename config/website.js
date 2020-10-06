@@ -5,7 +5,7 @@ const meta = {
     'Sasank - Creative frontEnd web developer who loves javascript and modern web technologies.',
   siteTitleAlt: 'Sasank Reddy',
   siteShortName: 'Sasank Reddy',
-  siteUrl: 'https://sasankreddy.tk', // No trailing slash!
+  siteUrl: 'https://sasankreddy.cf', // No trailing slash!
 };
 
 const social = {
