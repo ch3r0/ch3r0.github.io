@@ -9,8 +9,8 @@ excerpt:
   features including `Github Extra Pins` which allows us to pin more that 6
   repos in our profile.
 
-iframe: //github-readme-stats.vercel.app/api/?username=anuraghazra
-demo: //github-readme-stats.vercel.app/api/?username=anuraghazra
+iframe: //github-readme-stats.vercel.app/api/?username=thecyberbyte
+demo: //github-readme-stats.vercel.app/api/?username=thecyberbyte
 src: //github.com/anuraghazra/github-readme-stats
 
 info:
@@ -28,7 +28,7 @@ profile Readmes i thought i should do something cool & unique, so i created this
 
 ### Github Readme Stats
 
-[![Github Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=thecyberbyte&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Github readme stats allows you to simply add a markdown image link and it will
 show you realtime stats for your github account.
@@ -42,7 +42,7 @@ any websites!
 
 Live Demo:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&v=1)
+![sasank's github stats](https://github-readme-stats.vercel.app/api?username=thecyberbyte&v=1)
 
 Pretty neat isn't it? Try it out right now on your profile readme too! :D
 
