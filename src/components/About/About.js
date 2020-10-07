@@ -16,7 +16,7 @@ const About = () => {
       <SkewBg />
       <AboutInfo>
         <div>
-          <Avatar src="hfest_avatar_2.jpg" />
+          <Avatar src="dpavatar.jpg" />
         </div>
         <p>
           Hi, I'm Sasank Reddy, a passionate self-taught frontEnd web developer
