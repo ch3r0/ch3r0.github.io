@@ -18,7 +18,7 @@ const website = {
   ...meta,
   ...social,
   disqusShortName: 'sasankreddy',
-  googleAnalyticsID: 'UA-119972196-1',
+  googleAnalyticsID: 'G-BBP7D9TTPF',
   // Manifest
   themeColor: '#6D83F2',
   backgroundColor: '#6D83F2',
