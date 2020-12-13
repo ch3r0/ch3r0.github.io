@@ -17,7 +17,7 @@ const social = {
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'sasank',
+  disqusShortName: 'sasankreddy',
   googleAnalyticsID: 'UA-119972196-1',
   // Manifest
   themeColor: '#6D83F2',
